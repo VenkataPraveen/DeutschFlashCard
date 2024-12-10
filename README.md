@@ -1,5 +1,11 @@
 # DeutschFlashCard
 Enhance Flashcard App with View Tracking, Pagination, and Quiz Mode
+
+Example Input Format:
+you can add a text file with content in this format
+Schichtenarchitektur | Layered architecture | An architecture style dividing software into layers with defined responsibilities. | Die Schichtenarchitektur trennt Geschäftslogik und Präsentationsschicht. | The layered architecture separates business logic and presentation layer.
+
+
 # Detailed Description
 
 This update introduces the following key enhancements to the Flashcard App:
