@@ -1,5 +1,6 @@
 # DeutschFlashCard
 Enhance Flashcard App with View Tracking, Pagination, and Quiz Mode
+![image](https://github.com/user-attachments/assets/cdc29aca-266d-410d-ac69-9f0d9845bc3d)
 
 Example Input Format:
 you can add a text file with content in this format
