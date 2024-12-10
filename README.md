@@ -45,3 +45,35 @@ This update introduces the following key enhancements to the Flashcard App:
 
    3. Persistent Storage:
         Flashcards and their view counts are saved to a local JSON file (flashcards.json) for persistence across sessions.
+
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+2. **Create a virtual environment (recommended):**
+    python -m venv venv
+    source venv/bin/activate  # On Linux/Mac
+    venv\Scripts\activate     # On Windows
+   
+# GUI libraries
+import tkinter as tk
+from tkinter import messagebox, filedialog
+
+# Utilities
+import random  # For randomizing flashcards and quiz options
+import json  # For saving/loading flashcard data
+import os  # For file existence checks
+
+# API calls (optional, if using translation APIs)
+import requests
+
+
+
+## Requirements
+- Python 3.7 or higher
+
+
+
